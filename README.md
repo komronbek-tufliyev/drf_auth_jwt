@@ -1,5 +1,5 @@
 # Telefon orqali ro'yxatdan o'tish. Django rest framework, simple jwt va ESKIZ API ishlatilingan.
-
+[![My Skills](https://skillicons.dev/icons?i=django&theme=dark)](https://skillicons.dev)
 
 # Kerakli paketlar va kutubxonalar
 ```python 3.10.2 ```
